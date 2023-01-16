@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38106c68.css",
+    "main.js": "/static/js/main.39c6996b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/turo.png": "/static/media/turo.912f92531cb446e1d728.png",
+    "static/media/hackaton.png": "/static/media/hackaton.4d5ab1f5a2124c3b85ec.png",
+    "static/media/insta.png": "/static/media/insta.b18b1755cbadafb0d6ae.png",
+    "static/media/port3.jpg": "/static/media/port3.a7a0cf0d75a14a9ffd6b.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.a1cb5c1907e31e31991a.pdf",
+    "static/media/calculator.jpeg": "/static/media/calculator.a9db93f6ae14125da50c.jpeg",
+    "static/media/quiz.png": "/static/media/quiz.7c77c1bf43653b1a8092.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/drag_and_drop_todo_app.jpeg": "/static/media/drag_and_drop_todo_app.c25745ce9e3fb6f31237.jpeg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.38106c68.css.map": "/static/css/main.38106c68.css.map",
+    "main.39c6996b.js.map": "/static/js/main.39c6996b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38106c68.css",
+    "static/js/main.39c6996b.js"
+  ]
+}
